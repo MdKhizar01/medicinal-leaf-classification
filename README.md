@@ -1,20 +1,20 @@
 # Medicinal Leaf Classification
 
-Course project exploring feature engineering and machine learning for medicinal leaf image classification.
+Feature engineering and machine learning for medicinal leaf image classification.
 
-## Repository contents
+## Explore
 
-- [FE_project_1_Final.ipynb](FE_project_1_Final.ipynb) — original uploaded project notebook.
-- [Feature Engineering Paper Final](Feature_Engineering%20Paper%20Final.pdf) — project paper.
-- [Project presentation](Feature_Engineering%20finallll.pdf).
-- [Notebook PDF export](vertopal.com_FE_project_1_Final.pdf).
-- [Paper source archive](Feature_Engineering%20Overleaf.zip).
+- [Project notebook](notebooks/medicinal_leaf_classification.ipynb)
+- [Project paper](docs/project-paper.pdf)
+- [Presentation](docs/presentation.pdf)
+- [Notebook PDF](docs/notebook-export.pdf)
+- [Paper source](docs/paper-source.zip)
 
-## Explore the project
+## Run
 
-Open the notebook in Jupyter or Google Colab and review its imports and dataset paths before running cells. The image dataset is not included in this repository; supply the dataset expected by the notebook and adjust paths for your environment.
+Open the notebook in Jupyter or Google Colab. Review its imports, supply the image dataset it references, and update dataset paths before running cells. The dataset is not bundled.
 
-The notebook and accompanying reports contain the project methodology and recorded results. Execution has not been revalidated as part of this documentation update.
+The original notebook and reports are preserved. Their recorded results have not been rerun during repository organization.
 
 ## Contributors
 
